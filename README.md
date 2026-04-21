@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunalhiremath
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity Essentials
+- 👀 I’m interested in Cybersecurity/DevSecOps
+- 🌱 I’m currently learning Security Engineering
 - 📫 How to reach me hiremathkunal@gmail.com
 
 <!---
